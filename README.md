@@ -4,9 +4,12 @@
 
 Passionate Data Analyst who loves turning raw data into meaningful insights. I enjoy working with messy datasets, cleaning and transforming them, and creating dashboards that help in better decision-making.
 
+# **ｓｋｉｌｌｓ**
 
-Data Analysis: 
+** Data Analysis:**
+
 Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Reporting & Business Insights 
+
 Programming & Scripting: 
 Python (NumPy, Pandas, Matplotlib), SQL 
 Data Visualization Tools: 
