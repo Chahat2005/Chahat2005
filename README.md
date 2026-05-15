@@ -7,19 +7,19 @@ Passionate Data Analyst who loves turning raw data into meaningful insights. I e
 
  ### **S ｋｉｌｌｓ**
  
-➤ **Data Analysis:**
+➤ *Data Analysis:*
 
 Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Reporting & Business Insights 
 
-➤ **Programming & Scripting:** 
+➤ *Programming & Scripting:*
 
 Python (NumPy, Pandas, Matplotlib), SQL 
 
-➤ **Data Visualization Tools:**
+➤ *Data Visualization Tools:*
 
 Power BI, Excel (Pivot Tables, VLOOKUP, Charts, Dashboards) 
 
-➤ **Other Tools:**
+➤ *Other Tools:*
 
 MS Office, Google Sheets, Jupyter Notebook
 
