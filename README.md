@@ -1,6 +1,6 @@
 # **ℂ𝕙𝕒𝕙𝕒𝕥 𝕍𝕖𝕣𝕞𝕒 **
 
- **Data Analyst**
+Ⓓⓐⓣⓐ Ⓐⓝⓐⓛⓨⓢⓣ
 
 Passionate Data Analyst who loves turning raw data into meaningful insights. I enjoy working with messy datasets, cleaning and transforming them, and creating dashboards that help in better decision-making.
 
