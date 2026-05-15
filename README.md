@@ -27,8 +27,8 @@ MS Office, Google Sheets, Jupyter Notebook
 ### **𝖫𝖾𝗍'𝗌 𝖢𝗈𝗇𝗇𝖾𝖼𝗍**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chahat-verma-679731261/">
-  <a href="mailto:chahatv210@gmail.com">
+  <a href="https://www.linkedin.com/in/chahat-verma-679731261/">**𝖫𝕀ℕ𝕂𝔼𝔻𝕀ℕ**</a>
+   <a href="mailto:chahatv210@gmail.com">**𝔼𝕄𝔸𝕀𝕃**</a>
 </p>
 
 
